@@ -1,0 +1,4 @@
+INDEX VERSION 1.130+/Users/billsheng/Desktop/Online-Courses/University of Waterloo/MSCI240- Data Structures and Algorithms/Projects/1/.metadata/.plugins/org.eclipse.jdt.core
+2791696069.index
+3665656385.index
+2599083916.index
